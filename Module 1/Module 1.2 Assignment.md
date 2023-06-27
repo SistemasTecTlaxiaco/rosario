@@ -3,9 +3,15 @@ Para la asignación del módulo 1.2, abrirá su línea de comando y completará 
 - [ ] Crea un directorio usando el comando `mkdir`
 - [ ] Cambiarse al directorio con el comando `cd` 
 - [ ] En el directorio que creaste, inicializa Git usando `git init`
+<<<<<<< HEAD
 - [ ] Cree un archivo README.md en su directorio usando el comando `touch README.md`
 - [ ] Asegúrese de que README.md esté en su _Working Directory_ verificando su estado con `git status `
 - [ ] Mueva README.md del _Directorio de trabajo_ al _Área de preparación_ usando `git add .`
+=======
+- [ ] Cree un archivo README.md en su directorio usando el comando `touch`
+- [ ] Asegúrese de que README.md esté en su _Working Directory_ verificando su estado con `git status .`
+- [ ] Mueva README.md del _Directorio de trabajo_ al _Área de preparación_ usando `git add`
+>>>>>>> 4326e42cc9b94a35f89bbbd4b83f59e36c996da2
 - [ ] Asegúrese de que README.md esté en su _Staging Area_ verificando su estado con `git status`
 - [ ] Confirme README.md en su repositorio usando `git commit -m "texto"`
 - [ ] Asegúrese de que su _Directorio de trabajo_ y el _Área de preparación_ estén limpios con `git status`
