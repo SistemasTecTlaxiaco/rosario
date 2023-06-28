@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Jose Alfredo Roman Cruz Modificado en local en 2.3
 =======
 Jose Alfredo Roman Cruz
 >>>>>>> 4326e42cc9b94a35f89bbbd4b83f59e36c996da2
