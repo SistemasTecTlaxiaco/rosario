@@ -1,5 +1,3 @@
-=======
-Jose Alfredo Roman Cruz
 >>>>>>> 4326e42cc9b94a35f89bbbd4b83f59e36c996da2
 # Módulo 2.3 Asignación
 
